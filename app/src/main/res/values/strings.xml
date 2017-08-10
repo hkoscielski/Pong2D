@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pong 2D</string>
+
+    <string name="option_message">Opcje będą dostępne wkrótce :)</string>
+    <string name="statistics_message">Statystyki będą dostępne wkrótce :)</string>
+    <string name="help_message">Pomoc będzie dostępna wkrótce :)</string>
+</resources>
